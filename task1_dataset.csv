@@ -1,0 +1,11 @@
+ID,Name,Age,Gender,City,Education Level,Income (?),Marital Status
+1,Aarav,18,Male,Hyderabad,High School,15000,Single
+2,Diya,22,Female,Bengaluru,Bachelor’s,28000,Single
+3,Krishna,35,Male,Chennai,Master’s,55000,Married
+4,Meera,29,Female,Pune,Bachelor’s,40000,Married
+5,Raj,42,Male,Delhi,Master’s,72000,Married
+6,Ananya,19,Female,Mumbai,High School,18000,Single
+7,Vikram,65,Male,Kolkata,PhD,85000,Widowed
+8,Sneha,54,Female,Hyderabad,Master’s,60000,Married
+9,Arjun,27,Male,Bengaluru,Bachelor’s,35000,Single
+10,Kavya,31,Female,Chennai,Master’s,48000,Married
